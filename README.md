@@ -1,4 +1,4 @@
-# Food Website
+# Food Website   FoodiesHub
 
 ## Description
 This project is a **Food Website** developed with **Angular**. It allows users to explore a variety of food options, view menus, and place orders. The website fetches data from a mock backend using **JSON Server**.
